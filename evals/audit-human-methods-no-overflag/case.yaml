@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: audit-human-methods-no-overflag
+expected_outcome: |
+  Audit only. The skill reports that the paragraph shows few or no generated-prose patterns, does not
+  ask for the methods passives to be made active, flags "anonymised" as inconsistent with the
+  American spelling the user asked for, and does not rewrite the paragraph.

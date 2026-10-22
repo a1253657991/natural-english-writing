@@ -1,0 +1,7 @@
+schema_version: "1.1"
+name: revise-confirmed-brief
+expected_outcome: |
+  Because the brief is confirmed, the skill proceeds to a revised paragraph. The paragraph states the
+  2.1% (CI 1.2–3.0) and 0.4% not-significant estimates accurately, states the income vs cash-flow
+  limitation, uses "we" and British spelling, drops the inflated and formulaic phrasing, adds no
+  facts, citations or numbers beyond the brief, and is followed by change notes in Chinese.

@@ -1,0 +1,7 @@
+schema_version: "1.1"
+name: intake-first-chinese-notes
+expected_outcome: |
+  The first response confirms requirements instead of drafting: it asks clarifying questions in Chinese
+  (e.g. word limit and the statement prompt, the user's role in the study, the size and method of the
+  finding, spelling variety, what makes LSE's programme relevant), gives reasons or defaults, and does
+  not produce a finished English paragraph or invent any finding.
